@@ -32,7 +32,19 @@ Some of the visualizations included in the analysis:
 - Males are more represented in the dataset, and they show a higher rate of heart disease.
 - Features like cholesterol and fasting blood sugar alone do not strongly indicate heart disease.
 
-## 🧹 Data Quality
-- No missing values found.
-- All feature values are within valid ranges.
-- Data types verified and consistent.
+## 📊 Dashboard Overview
+
+This Power BI dashboard summarizes key insights from the Heart Disease dataset:
+
+- **Total Patients**: 303  
+- **Patients with Disease**: 138  
+- **Patients without Disease**: 165  
+- **Heart Disease Percentage**: ~54%
+
+### 🔍 Visual Highlights:
+- Heart disease distribution by gender  
+- Chest pain type vs heart disease  
+- Age vs average cholesterol  
+- Disease distribution in pie chart  
+
+![Heart Disease Dashboard](DashBoard.png)
