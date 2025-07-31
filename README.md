@@ -47,4 +47,4 @@ This Power BI dashboard summarizes key insights from the Heart Disease dataset:
 - Age vs average cholesterol  
 - Disease distribution in pie chart  
 
-![Heart Disease Dashboard](DashBoard.png)
+![Heart Disease Dashboard](DashBoard1.png)
