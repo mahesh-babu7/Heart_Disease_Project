@@ -8,7 +8,7 @@ The goal is to perform Exploratory Data Analysis (EDA) on a heart disease datase
 ### Dataset
 The dataset contains 303 rows and 14 columns, with features such as:
 
-age, sex, cp (chest pain type), trestbps (resting blood pressure), chol (cholesterol)
+- age, sex, cp (chest pain type), trestbps (resting blood pressure), chol (cholesterol)
 
 fbs (fasting blood sugar), restecg (resting ECG results), thalach (max heart rate)
 
