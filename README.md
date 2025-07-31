@@ -1,8 +1,7 @@
 # Heart Disease Analysis - Healthcare EDA Project
 This project explores and analyzes a heart disease dataset using Python libraries such as Pandas, Seaborn, and Matplotlib. It aims to uncover trends and patterns related to heart disease risk factors based on clinical features.
 
-📊 Project Overview
-Objective
+## 📊 Project Overview Objective
 The goal is to perform Exploratory Data Analysis (EDA) on a heart disease dataset to identify key factors affecting the presence or absence of heart disease.
 
 Dataset
